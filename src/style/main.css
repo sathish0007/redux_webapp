@@ -1,0 +1,37 @@
+/* span.ant-input-search.ant-input-affix-wrapper {
+  position: fixed;
+  top: 15px;
+  left: 10%;
+} */
+.headertitle {
+  color: #fff;
+  font-style: oblique;
+  font-size: 30px;
+}
+.ant-card.ant-card-bordered.ant-card-hoverable {
+  margin-bottom: 20px;
+}
+.ant-layout-header {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+.ant-card-meta-title {
+  color: #ff5722;
+}
+
+.ant-card-meta-description {
+  color: forestgreen;
+}
+span.movieitems {
+  color: blue;
+  font-style: oblique;
+}
+ul.moviedata {
+  text-align: left;
+}
+.addnewmovie {
+  position: fixed;
+  right: 10%;
+  top: 20%;
+}
